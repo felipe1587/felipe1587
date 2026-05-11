@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipe1587/felipe1587/main/1778523010815.png" alt="TECH STACK GLOBAL" width="100%" />
+  <img src="stack.png" alt="TECH STACK GLOBAL" width="100%" />
 </p>
 
 ### 👨‍💻 Full Stack Software Engineer | Blockchain Expert | Tech Lead
