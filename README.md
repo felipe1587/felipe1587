@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipe1587/felipe1587/main/image_5.png" alt="FELIPE DEV GLOBAL Banner" width="100%" />
+  <img src="1778518531444.png" alt="FELIPE DEV GLOBAL" width="100%" />
 </p>
 
 ### 👨‍💻 Full Stack Engineer | Blockchain Expert | Tech Lead
@@ -12,8 +12,8 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 
 * **Core Development:** Rust, Node.js, Python, TypeScript/JavaScript (ES6+).
 * **Blockchain & Fintech:** Arquitetura de redes de pagamento descentralizadas (Pay Network Core), Smart Contracts e Segurança Digital.
-* **Mobile & Intelligence:** Desenvolvimento de PWAs de ultra performance e integração avançada com Gemini AI.
-* **DevOps:** Especialista em ambientes Linux (Termux Expert), Docker, e Automação de Infraestrutura.
+* **Mobile & Intelligence:** Desenvolvimento de PWAs de ultra performance e integração avançada com APIs de IA.
+* **DevOps:** Especialista em ambientes Linux (Termux Specialist), Docker e Automação de Infraestrutura.
 
 ---
 
@@ -28,7 +28,7 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 
 ### 🛠️ Projetos de Elite (Elite Projects)
 
-* ⚡ **[Pay Network](https://github.com/felipe1587/pay-network)** - Banco Global disruptivo baseado em tecnologia Blockchain de última geração. Arquitetado para transações ultra velozes (Ultra Flash Rate) e descentralização total.
+* ⚡ **[Pay Network](https://github.com/felipe1587/pay-network)** - Banco Global disruptivo baseado em tecnologia Blockchain de última geração. Arquitetado para transações ultra velozes (**Ultra Flash Rate**) e descentralização total.
 * 🏦 **[Império Digital](https://github.com/felipe1587/imperiodigital)** - Ecossistema completo de marketplace, logística avançada e onboarding inteligente de sellers.
 * 🔍 **[SexyTrix Scanner Core](https://github.com/felipe1587/sexytrix-scanner-core)** - Engine de processamento visual inteligente integrada via PWA, com foco em análise de dados em tempo real.
 * 🛡️ **[Sombra Shadow](https://github.com/felipe1587/sombra-shadow)** - Framework de segurança ofensiva e monitoramento preventivo de integridade de sistemas distribuídos.
@@ -39,7 +39,7 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 
 ### 📫 Conecte-se com a Vanguarda Digital
 
-* **LinkedIn:** [Felipe Pupo](https://www.linkedin.com/in/felipe-pupo-8404ab34b) (Mantive o nome formal aqui para match profissional)
+* **LinkedIn:** [Felipe Pupo](https://www.linkedin.com/in/felipe-pupo-8404ab34b) 
 * **Email:** pupolove18@gmail.com
 * **Localização:** Rancharia, SP - Brazil 🇧🇷 | Disponibilidade Global
 
