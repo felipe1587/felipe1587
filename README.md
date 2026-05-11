@@ -2,17 +2,13 @@
   <img src="banner.png" alt="FELIPE DEV GLOBAL" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felipe1587/felipe1587/main/1778523010815.png" alt="TECH STACK GLOBAL" width="100%" />
+</p>
+
 ### 👨‍💻 Full Stack Software Engineer | Blockchain Expert | Tech Lead
 
 Engenheiro de Software focado em arquiteturas de alta performance, descentralização e soluções disruptivas. Especialista em transformar visão de negócios em código escalável, com forte atuação em sistemas financeiros e e-commerce global.
-
----
-
-### 🚀 Stack Tecnológico de Elite
-
-<p align="left">
-  <img src="https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
 
 ---
 
