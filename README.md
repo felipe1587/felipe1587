@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1778518531444.png" alt="FELIPE DEV GLOBAL" width="100%" />
+  <img src="banner.png" alt="FELIPE DEV GLOBAL" width="100%" />
 </p>
 
 ### 👨‍💻 Full Stack Software Engineer | Blockchain Expert | Tech Lead
@@ -24,7 +24,8 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe1587&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe1587&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe1587&layout=compact&theme=tokyonight&hide=html,css" width="300" alt="Linguagens mais usadas" />
 </p>
 
 ---
