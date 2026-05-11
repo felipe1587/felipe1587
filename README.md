@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="1778518531444.png" alt="FELIPE DEV GLOBAL" width="100%" />
+  <img src="banner.png" alt="FELIPE DEV GLOBAL" width="100%" />
 </p>
 
-### 👨‍💻 Full Stack Engineer | Blockchain Expert | Tech Lead
+### 👨‍💻 Full Stack Software Engineer | Blockchain Expert | Tech Lead
 
 Engenheiro de Software focado em arquiteturas de alta performance, descentralização e soluções disruptivas. Especialista em transformar visão de negócios em código escalável, com forte atuação em sistemas financeiros e e-commerce global.
 
@@ -17,7 +17,11 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 
 ---
 
-### 📊 Performance & Statistics
+### 📊 Skills & Performance
+
+<p align="left">
+  <img src="https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Blockchain-Hyperledger?style=for-the-badge&logo=blockchain&logoColor=white" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=felipe1587&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
@@ -46,4 +50,3 @@ Engenheiro de Software focado em arquiteturas de alta performance, descentraliza
 ---
 
 *"Architecting the future of decentralization, one ultra-fast block at a time."*
-
