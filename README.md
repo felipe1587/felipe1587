@@ -28,7 +28,7 @@ Engenheiro de Software Autodidata focado em arquiteturas de alta performance, de
 
 ### 📡 𝙲𝚘𝚗𝚎𝚌𝚝𝚎-𝚜𝚎 𝚌𝚘𝚖 𝚊 𝚅𝚊𝚗𝚐𝚞𝚊𝚛𝚍𝚊
 **𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗:** Felipe Pupo
-**𝙴𝚖𝚊𝚒𝚕:** pupolove15@gmail.com
+**𝙴𝚖𝚊𝚒𝚕:** 𝚏𝚎𝚕𝚒𝚙𝚎.𝚍𝚎𝚟.𝚐𝚕𝚘𝚋𝚊𝚕@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
 **𝙻𝚘𝚌𝚊𝚕:** Ilha comprida, SP - Brazil 🇧🇷 | Disponibilidade Global
 
 > *“Architecting the future of decentralization, one ultra-fast block at a time.”*
